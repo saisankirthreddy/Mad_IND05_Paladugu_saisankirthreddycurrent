@@ -1,0 +1,60 @@
+package com.example.mad_ind05_paladugu_saisankirthreddy
+
+object StateDataModel {
+
+    val teamList = listOf<State1>(
+
+        State1("Alabama", "Yellowhammer State", "50,744", R.drawable.alabama , R.drawable.al ),
+        State1(  "Alaska" , "Yellowhammer State", "571,951", R.drawable.alaska,  R.drawable.ak ),
+        State1("Arizona", "The Grand Canyon State", "113,635", R.drawable.arizona , R.drawable.az),
+        State1("Arkansas", "The Natural State", "52,068", R.drawable.arkansas , R.drawable.ar ),
+        State1("California", "The Golden State", "155,959", R.drawable.california , R.drawable.ca ),
+        State1( "Colorado" , "The Centennial State", "103,718", R.drawable.colorado , R.drawable.co ),
+        State1( "Connecticut", "The Constitution State", "4,845", R.drawable.connecticut , R.drawable.ct ),
+        State1("Delaware" , "The First State", "1,954", R.drawable.delaware , R.drawable.de ),
+        State1("Florida" , "The Sunshine State", "53,927", R.drawable.florida , R.drawable.fl ),
+        State1("Georgia", "The Peach State", "57,906", R.drawable.georgia , R.drawable.ga ),
+        State1("Hawaii", "The Aloha State", "6,423", R.drawable.hawaii , R.drawable.hi ),
+        State1("Idaho", "The Gem State", "82,747", R.drawable.idaho , R.drawable.id ),
+        State1("Illinois", "Prairie State", "55,584", R.drawable.illinois , R.drawable.il ),
+        State1("Indiana", "The Hoosier State", "35,867", R.drawable.indiana , R.drawable.`in` ),
+        State1("Iowa",  "The Hawkeye State", "55,869", R.drawable.iowa , R.drawable.ia ),
+        State1("Kansas", "The Sunflower State", "81,815", R.drawable.kansas , R.drawable.ks ),
+        State1("Kentucky", "The Bluegrass State", "39,728", R.drawable.kentucky , R.drawable.ky ),
+        State1("Louisiana", "The Pelican State", "43,562", R.drawable.louisiana , R.drawable.la ),
+        State1("Maine", "The Pine Tree State", "30,862", R.drawable.maine , R.drawable.me ),
+        State1("Maryland", "The Old Line State", "9,774", R.drawable.maryland , R.drawable.md ),
+        State1("Massachusetts", "The Bay State", "7,840", R.drawable.massachusetts , R.drawable.ma ),
+        State1("Michigan", "The Great Lakes State", "56,804", R.drawable.michigan , R.drawable.mi ),
+        State1("Minnesota", "The North Star State", "79,610", R.drawable.minnesota , R.drawable.mn ),
+        State1("Mississippi", "The Magnolia State", "46,907", R.drawable.mississippi , R.drawable.ms ),
+        State1("Missouri", "The Show Me State", "68,886", R.drawable.missouri , R.drawable.mo ),
+        State1("Montana", "The Treasure State", "145,552", R.drawable.montana , R.drawable.mt ),
+        State1("Nebraska", "The Cornhusker State", "76,872", R.drawable.nebraska , R.drawable.ne ),
+        State1("Nevada", "The Silver State", "109,826", R.drawable.nevada , R.drawable.nv ),
+        State1("New Hampshire", "The Granite State", "8,968", R.drawable.new_hampshire , R.drawable.nh ),
+        State1("New Jersey", "The Garden State", "7,417", R.drawable.new_jersey , R.drawable.nj ),
+        State1("New Mexico", "The Land of Enchantment", "121,356", R.drawable.new_mexico , R.drawable.nm ),
+        State1("New York", "The Empire State", "47,214", R.drawable.new_york , R.drawable.ny ),
+        State1("North Carolina", "The Tar Heel State", "48,711", R.drawable.north_carolina , R.drawable.nc ),
+        State1("North Dakota", "The Peace Garden State", "68,976", R.drawable.north_dakota , R.drawable.nd ),
+        State1("Ohio", "The Buckeye State", "40,948", R.drawable.ohio , R.drawable.oh ),
+        State1("Oklahoma", "The Sooner State", "68,667", R.drawable.oklahoma , R.drawable.ok ),
+        State1("Oregon", "The Beaver State", "95,997", R.drawable.oregon , R.drawable.or ),
+        State1("Pennsylvania", "The Keystone State", "44,817", R.drawable.pennsylvania , R.drawable.pa ),
+        State1("Rhode Island", "The Ocean State", "1,045", R.drawable.rhode_island , R.drawable.ri ),
+        State1("South Carolina", "The Palmetto State", "30,109", R.drawable.south_carolina , R.drawable.sc ),
+        State1("South Dakota", "Mount Rushmore State", "75,885", R.drawable.south_dakota , R.drawable.sd ),
+        State1("Tennessee", "The Volunteer State", "41,217", R.drawable.tennessee , R.drawable.tn ),
+        State1("Texas", "The Lone Star State", "261,797", R.drawable.texas , R.drawable.tx ),
+        State1("Utah", "The Beehive State", "82,144", R.drawable.utah , R.drawable.ut ),
+        State1("Vermont", "The Green Mountain State", "9,250", R.drawable.vermont , R.drawable.vt),
+        State1("Virginia", "The Old Dominion State", "39,594", R.drawable.virginia , R.drawable.va ),
+        State1("Washington", "The Evergreen State", "66,544", R.drawable.washington , R.drawable.wa ),
+        State1("West Virginia", "The Mountain State", "24,078", R.drawable.west_virginia , R.drawable.wv ),
+        State1("Wisconsin", "The Badger State", "54,310", R.drawable.wisconsin , R.drawable.wi ),
+        State1("Wyoming", "The Equality or Cowboy State", "97,100", R.drawable.wyoming , R.drawable.wy )
+
+
+    )
+}
